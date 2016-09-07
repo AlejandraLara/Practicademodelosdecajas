@@ -1,0 +1,8 @@
+img{
+	background-color: pink;
+	display: block;
+	width: 100 px;
+	padding: 5px 10px 15px 20px;  /*imagen de arte*/
+	border: 1px #06F dashed;
+	margin: 10px auto;
+}
